@@ -6,7 +6,7 @@ Trying to render out a tree map of all the MDN content.
 
 ```bash
 yarn
-yarn start
+yarn s
 open http://localhost:3000
 ```
 
